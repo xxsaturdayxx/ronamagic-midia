@@ -1,0 +1,34 @@
+{
+  "fotos_dir": "material-oficial/fotos",
+  "fotos": [
+    ["arena-tourism-partner.jpeg", 0.5],
+    ["tourism-fans-front-tourism-partner.jpeg", 0.6],
+    ["kia-center1-high.jpeg", 0.5],
+    ["tourism-arena25.jpg", 0.5],
+    ["tourism-fans-behind-tourism-partner.jpeg", 0.5]
+  ],
+  "titulo1": "MAGIC VENCE",
+  "titulo2": "EM UTAH",
+  "placar": "ORL 123 × 108 UTA",
+  "data": "quarta, 11 de novembro",
+  "destaque": "Franz Wagner",
+  "destaque_linhas": ["38 pontos · 8 rebotes", "9 de 10 nos lances livres"],
+  "destaque_extra": ["Igualou o recorde", "da carreira"],
+  "virada": ["Empatado em 98", "a 6min31s do fim", "e o Magic fechou", "com 25 a 10"],
+  "top3": [["1º", "Boston", "10-2"], ["2º", "Filadélfia", "9-3"], ["3º", "Detroit", "7-3"]],
+  "magic": ["10º", "Orlando Magic", "4-7"],
+  "magic_nota": "empatado com Charlotte",
+  "fonte_classificacao": "classificação de 12/11 (SI.com)",
+  "proximo": "Magic × Bucks",
+  "proximo_data": "sexta, 13 de novembro",
+  "proximo_hora": "19h (horário de Orlando) · NBA Cup",
+  "preco": "ingressos a partir de US$ 31",
+  "narracao": "/tmp/resultado/narracao.mp3",
+  "narracao_texto": [
+    "Vitória do Magic em Salt Lake City: 123 a 108 sobre o Utah Jazz.",
+    "Franz Wagner fez 38 pontos e igualou o recorde da carreira.",
+    "O jogo estava empatado a seis minutos do fim, e o Magic fechou com uma corrida de 25 a 10.",
+    "No Leste, o Magic está em décimo, com quatro vitórias e sete derrotas.",
+    "O próximo jogo em Orlando é nesta sexta, contra o Milwaukee Bucks, às sete da noite. Ingressos a partir de 31 dólares. Chama a gente no WhatsApp."
+  ]
+}
