@@ -1,0 +1,12 @@
+{
+  "data": "12/11",
+  "quadros": [
+    {"etiqueta": "Melhor campanha da liga", "titulo": ["Lakers lideram", "o Oeste"], "numero": "11-2", "numero_legenda": "", "linhas": ["Spurs vêm logo atrás, com 10-2"]},
+    {"etiqueta": "No Leste", "titulo": ["Celtics na ponta"], "numero": "10-2", "numero_legenda": "", "linhas": ["Bucks têm a pior campanha:", "uma vitória em doze jogos"]}
+  ],
+  "narracao_texto": [
+    "Os Lakers têm a melhor campanha da liga: onze vitórias e duas derrotas.",
+    "No Leste, Boston lidera com dez e duas, e o Milwaukee tem só uma vitória em doze jogos.",
+    "NBA todo dia, em português. Segue a RonaMagic."
+  ]
+}
